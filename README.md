@@ -1,4 +1,4 @@
-# Hello, my name is Renzo, and welcome to my GitHub 😊
+#
 
 <div align="">
   <a href="https://github.com/RenzoCei">
