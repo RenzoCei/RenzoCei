@@ -1,4 +1,1 @@
-#
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzocei/)
-
-###
+Just a financist trying to program some projects in Python and Git.
